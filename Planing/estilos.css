@@ -1,0 +1,75 @@
+.limon {
+    background: green;
+    margin-right: 95%;
+}
+
+.manzana {
+    background: red;
+    margin-right: 95%;
+}
+
+.banano {
+    background: yellow;
+    margin-right: 95%;
+}
+
+.block {
+    border-style: solid;
+    border-color: #94dbff;
+    background-color: #94dbff;
+}
+
+.vaca {
+    display: inline;
+    background-color: blanchedalmond;
+}
+
+.oveja {
+    display: inline;
+    background-color: burlywood;
+}
+
+.caballo {
+    display: inline;
+    background-color: saddlebrown;
+}
+
+.inline {
+    border-style: solid;
+    border-color: #ffeb94;
+    background-color: #ffeb94;
+}
+
+.inlineb {
+    border-style: solid;
+    border-color: #D2B4DE;
+    background-color: #D2B4DE;
+}
+
+.bloque {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: chocolate;
+}
+
+.rana {
+    background-color: darkgreen;
+    display: inline-block;
+}
+
+.cocodrilo {
+    background-color: darkolivegreen;
+    display: inline-block;
+}
+
+.lagartija {
+    background-color: darkslategray;
+    display: inline-block;
+}
+
+.valores {
+    background-color: gainsboro;
+    border-bottom-style: solid;
+    border-color: gainsboro;
+}
