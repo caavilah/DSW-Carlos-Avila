@@ -1,0 +1,234 @@
+    .cuerpo {
+        margin: 0%;
+        padding: 0%;
+        ;
+    }
+    
+    .limon {
+        color: black;
+        margin-right: 95%;
+        list-style: none;
+        margin-left: 1%;
+    }
+    
+    .manzana {
+        color: black;
+        margin-right: 95%;
+        margin-left: 1%;
+    }
+    
+    .banano {
+        color: black;
+        margin-right: 95%;
+        margin-left: 1%;
+    }
+    
+    .block {
+        border-style: solid;
+        border-color: #F0B429;
+        background-color: whitesmoke;
+    }
+    
+    .vaca {
+        display: inline;
+        color: whitesmoke;
+        margin-left: 1%;
+    }
+    
+    .oveja {
+        display: inline;
+        color: black;
+    }
+    
+    .caballo {
+        display: inline;
+        color: black;
+    }
+    
+    .inline {
+        border-style: solid;
+        border-color: #F0B429;
+        background-color: whitesmoke;
+    }
+    
+    .inlineb {
+        border-style: solid;
+        border-color: #F0B429;
+        background-color: whitesmoke;
+    }
+    
+    .bloque {
+        width: 3%;
+        height: 3%;
+        display: inline-block;
+        background-color: coral;
+        margin-left: 1%;
+    }
+    
+    .rana {
+        display: inline-block;
+        color: black;
+        margin-left: 1%;
+    }
+    
+    .cocodrilo {
+        display: inline-block;
+        color: black;
+    }
+    
+    .lagartija {
+        display: inline-block;
+        color: black;
+    }
+    
+    .valores {
+        border-style: solid;
+        border-color: #F0B429;
+        background-color: #005883;
+    }
+    
+    .maquetacion {
+        width: 60%;
+    }
+    
+    .img {
+        margin-left: 1%;
+        border-radius: 12px;
+    }
+    
+    .rou {
+        margin-top: 1%;
+    }
+    
+    .unad {
+        width: 7%;
+        position: relative;
+        left: 90%;
+        padding: 0%;
+        margin: 0%;
+        border: 0%;
+    }
+    
+    .total {
+        padding: 5%;
+        padding-top: 2%;
+        border-style: solid;
+        border-color: gray;
+        margin-bottom: 0%;
+        margin-right: 12%;
+        margin-left: 6%;
+        padding-bottom: 17%;
+    }
+    
+    .un {
+        background-color: white;
+    }
+    
+    .tex {
+        color: honeydew;
+        text-emphasis-style: Arial;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-right: 15%;
+        margin-left: 1%;
+    }
+    
+    .tex1 {
+        color: black;
+        text-emphasis-style: Arial;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-right: 15%;
+        margin-left: 1%;
+    }
+    
+    .H1 {
+        color: #F47920;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 4%;
+    }
+    
+    .H {
+        color: #F0B429;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin-left: 4%;
+    }
+    
+    .Titl {
+        background-color: #005883;
+        border-style: solid;
+        border-color: #F0B429;
+    }
+    
+    .titu {
+        color: #F0B429;
+    }
+    
+    .IN {
+        border-style: solid;
+        border-color: #F0B429;
+    }
+    
+    .Na {
+        border-style: solid;
+        border-color: #F0B429;
+    }
+    
+    .text {
+        color: #F47920;
+    }
+    
+    .totalN {
+        font-family: 'Times New Roman', Times, serif;
+        margin-right: 10%;
+    }
+    
+    .logo {
+        width: 7%;
+    }
+    
+    ul,
+    ol {
+        list-style: none;
+    }
+    
+    .nav li a {
+        width: 100%;
+        display: block;
+        list-style: none;
+        color: #F0B429;
+        background-color: #005883;
+        text-decoration: none;
+        padding: 0.2%;
+        margin-right: 20%;
+    }
+    
+    .Na {
+        padding-bottom: 2%;
+    }
+    
+    .nav>li {
+        margin-left: 0.2%;
+        float: left;
+    }
+    
+    .nav li ul {
+        display: none;
+        position: absolute;
+        min-width: 8%;
+    }
+    
+    .nav li:hover>ul {
+        display: block;
+    }
+    
+    .esc {
+        position: absolute;
+        width: 60%;
+        height: 100%;
+    }
+    
+    .blockn {
+        border-style: solid;
+        border-color: #F0B429;
+        background-color: whitesmoke;
+        padding-bottom: 70%;
+    }
